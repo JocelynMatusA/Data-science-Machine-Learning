@@ -119,6 +119,7 @@ data-science-Machine-Learning/
 ├── 08-reinforcement-learning/
 ├── 09-neural-networks/
 ├── 10-convolutional-neural-networks/
+    ├── CNN_cód.ejemplo.ipynb
     └── CNN_explicación.pdf
 ├── 11-big-data/
 ├── P1-final-ipynb(en proceso)
